@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "api_list": "https://api.kick.com/private/v1/livestreams",
+  "api_chan": "https://kick.com/api/v2/channels/",
+  "api_search": "https://search.kick.com/collections/channel/documents/search",
+  "ts_api_key": "nXIMW0iEN6sMujFYjFuhdrSwVow3pDQu",
+  "sig": "SK1c/vxviW8Wf6mkO5MKetyu4S8rO9Uzzy/Gs14SrltGqXpBh5YCUkipdVn/LTYconY1rAxGTkwzCtq+94vBAw=="
+}
